@@ -23,5 +23,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 🛠 Tech Stack
-&#x1F3B8
+- Python: 🐍
+- HTML: &#x1F6E0;
+- CSS: &#x1F3B7;
+- JavaScript: &#x1F3B8;
+- NumPy: ⭕
+- Pandas: 🐼
+- TensorFlow: ™️
+- Keras
+- OpenCV
+- C++: &#x1F4BB;
 
