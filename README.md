@@ -7,7 +7,7 @@
 
 🌱 I'm on track for learning more about Computer Vision and NLP.
 
-📫 Email: Sharmamrityunjay110@gmail.com
+ 📫How to reach me: Sharmamrityunjay110@gmail.com
 <!--
 **Insane110/Insane110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,4 +22,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🛠 Tech Stack
+&#x1F3B8
 
