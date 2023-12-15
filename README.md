@@ -9,7 +9,7 @@
 
  📫How to reach me: Sharmamrityunjay110@gmail.com
 
-   My Portfolio : [click](https://insane110.github.io/mrityunjaysharma.github.io/)
+   💼My Portfolio : [click](https://insane110.github.io/mrityunjaysharma.github.io/)
 <!--
 **Insane110/Insane110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
