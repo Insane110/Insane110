@@ -3,9 +3,7 @@
 
 💡 Technology I'm enjoing working with is tensorflow.
 
-👀 As of now I'm active in the field of ML/AI and DL. Currently exploring Web Development. 
-
-🌱 I'm on track for learning more about Computer Vision and NLP.
+👀 As of now I'm active in the field of ML/AI, Computer Vision and Deep Learning. 
 
  📫How to reach me: Sharmamrityunjay110@gmail.com
 
